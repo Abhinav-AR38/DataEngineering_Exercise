@@ -1,0 +1,11 @@
+customer_id,customer_name,city,data_used_gb,call_minutes,plan_limit_gb
+C101,Arun,Bengaluru,18,220,20
+C102,Priya,Chennai,35,310,30
+C103,Ravi,Hyderabad,12,150,20
+C104,Meena,Bengaluru,42,450,30
+C105,Kiran,Mumbai,28,280,25
+C106,Divya,Chennai,15,190,20
+C107,Sanjay,Hyderabad,50,500,40
+C108,Lakshmi,Mumbai,22,240,25
+C109,Naveen,Bengaluru,32,350,30
+C110,Anitha,Chennai,8,100,15

@@ -1,0 +1,11 @@
+order_id,customer_id,product,quantity,unit_price,status
+O1001,C101,Laptop,1,55000,Delivered
+O1002,C102,Mouse,3,500,Delivered
+O1003,C103,Monitor,2,12000,Shipped
+O1004,C101,Keyboard,2,1200,Delivered
+O1005,C104,Laptop,1,55000,Cancelled
+O1006,C105,Mouse,5,500,Delivered
+O1007,C102,Monitor,1,12000,Delivered
+O1008,C106,Keyboard,3,1200,Shipped
+O1009,C103,Laptop,2,55000,Delivered
+O1010,C105,Mouse,2,500,Delivered
